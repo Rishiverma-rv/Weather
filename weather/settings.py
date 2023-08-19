@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-22b$r_g=%5-vavs(+h8dt@y2qfj2ul_dt)d74)86$wj9#mobg$'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['weather-enea.onrender.com']
 
